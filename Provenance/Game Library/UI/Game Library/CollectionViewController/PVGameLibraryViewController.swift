@@ -1050,7 +1050,7 @@ final class PVGameLibraryViewController: UIViewController, UITextFieldDelegate, 
         #endif
     }
 
-    fileprivate lazy var officialBundleID: Bool = Bundle.main.bundleIdentifier!.contains("com.provenance-emu.")
+    fileprivate lazy var officialBundleID: Bool = Bundle.main.bundleIdentifier!.contains("com.cyllenge.")
 
     var transitioningToSize: CGSize?
     override func viewWillTransition(to size: CGSize, with coordinator: UIViewControllerTransitionCoordinator) {
@@ -1556,7 +1556,7 @@ final class PVGameLibraryViewController: UIViewController, UITextFieldDelegate, 
                         let spotlightUniqueIdentifier = game.spotlightUniqueIdentifier
                         let spotlightContentSet = game.spotlightContentSet
 
-                        let spotlightItem = CSSearchableItem(uniqueIdentifier: spotlightUniqueIdentifier, domainIdentifier: "com.provenance-emu.game", attributeSet: spotlightContentSet)
+                        let spotlightItem = CSSearchableItem(uniqueIdentifier: spotlightUniqueIdentifier, domainIdentifier: "com.cyllenge.game", attributeSet: spotlightContentSet)
                         CSSearchableIndex.default().indexSearchableItems([spotlightItem]) { error in
                             if let error = error {
                                 ELOG("indexing error: \(error)")

@@ -1056,7 +1056,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = PVYabause;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1121,7 +1121,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -1219,7 +1219,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = PVYabause;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1285,7 +1285,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = PVYabause;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -1368,7 +1368,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -1432,7 +1432,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVYabause";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVYabause";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;

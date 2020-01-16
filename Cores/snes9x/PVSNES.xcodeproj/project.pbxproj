@@ -1174,7 +1174,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -1223,7 +1223,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -1275,7 +1275,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -1326,7 +1326,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -1374,7 +1374,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -1425,7 +1425,7 @@
 					"-DNDEBUG",
 					"-D__LIBRETRO__",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVSNES";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVSNES";
 				PRODUCT_NAME = PVSNES;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;

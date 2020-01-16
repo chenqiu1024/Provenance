@@ -67,7 +67,7 @@
 			<key>CFBundleURLIconFile</key>
 			<string>URLIcon-83.5@2x</string>
 			<key>CFBundleURLName</key>
-			<string>com.provenance-emu.provenance</string>
+			<string>com.cyllenge.provenance</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>provenance</string>
@@ -140,7 +140,7 @@
 	<string>Provenance can set custom artworks from your photos or save screenshots to your photos library.</string>
 	<key>NSUbiquitousContainers</key>
 	<dict>
-		<key>iCloud.com.provenance-emu.provenance</key>
+		<key>iCloud.com.cyllenge.provenance</key>
 		<dict>
 			<key>NSUbiquitousContainerIsDocumentScopePublic</key>
 			<true/>
@@ -152,8 +152,8 @@
 	</dict>
 	<key>NSUserActivityTypes</key>
 	<array>
-		<string>com.provenance-emu.webserver</string>
-		<string>com.provenance-emu.game.play</string>
+		<string>com.cyllenge.webserver</string>
+		<string>com.cyllenge.game.play</string>
 	</array>
 	<key>Revision</key>
 	<string>78dc628</string>
@@ -211,7 +211,7 @@
 			<key>UTTypeIdentifier</key>
 			<string>com.provenance.rom</string>
 			<key>UTTypeReferenceURL</key>
-			<string>http://www.provenance-emu.org/</string>
+			<string>http://www.cyllenge.org/</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.filename-extension</key>

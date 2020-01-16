@@ -2156,7 +2156,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -2210,7 +2210,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -2267,7 +2267,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -2325,7 +2325,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -2379,7 +2379,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -2436,7 +2436,7 @@
 					"-DPSS_STYLE=1",
 					"-DLSB_FIRST",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.fceu";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.fceu";
 				PRODUCT_NAME = PVFCEU;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;

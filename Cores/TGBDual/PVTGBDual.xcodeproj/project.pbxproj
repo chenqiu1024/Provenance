@@ -658,7 +658,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -685,7 +685,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -713,7 +713,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -741,7 +741,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
@@ -926,7 +926,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -953,7 +953,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.PVTGBDual";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.PVTGBDual";
 				PRODUCT_NAME = PVTGBDual;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;

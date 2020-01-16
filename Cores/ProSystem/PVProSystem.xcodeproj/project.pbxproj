@@ -388,7 +388,7 @@
 				TargetAttributes = {
 					B36DE79F1D6B7558002EE3ED = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = V78REPMQFZ;
+						DevelopmentTeam = XNCE899229;
 					};
 				};
 			};
@@ -677,7 +677,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -717,7 +717,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -765,7 +765,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -804,7 +804,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -851,7 +851,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -891,7 +891,7 @@
 					"@loader_path/Frameworks",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.provenance-emu.ProSystem";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.cyllenge.ProSystem";
 				PRODUCT_NAME = ProSystem;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;

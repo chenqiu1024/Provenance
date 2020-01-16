@@ -81,8 +81,8 @@
 	</dict>
 	<key>NSUserActivityTypes</key>
 	<array>
-		<string>com.provenance-emu.webserver</string>
-		<string>com.provenance-emu.game.play</string>
+		<string>com.cyllenge.webserver</string>
+		<string>com.cyllenge.game.play</string>
 	</array>
 	<key>Revision</key>
 	<string>f9c61252</string>
